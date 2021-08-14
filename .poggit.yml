@@ -1,8 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AndreasHGK/AutoMineReset
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AndreasHGK/AutoMineResett
 branches:
 - Default
 projects:
-  AutoMineReset:
+  AutoMineResett:
     path: ""
     icon: "minecraft_excellence_icon_by_go0rum-d8j29u3.png"
 ...
